@@ -1,0 +1,7 @@
+name = "RomanNumerals"
+uuid = "f9dc7984-d524-4c21-a1eb-562f7d298059"
+authors = ["Andrew Hale <andrew.hale003@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
